@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## This app designed with React Hoocks
-my functions in actions folder 
+## app 
+with React Hoocks & functions in actions folder 
+
 ## How to add task 
 *click inside text box
 *type your task 
