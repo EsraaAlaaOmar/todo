@@ -48,7 +48,4 @@ yarn build
 ```
 yarn lint
 ```
-# todo
-# todoReactHooks
-# todo
-# todo
+
